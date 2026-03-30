@@ -137,3 +137,18 @@ Acesse as imagens diretamente via jsDelivr:
 ---
 
 Pronto! Agora você tem um repositório GitHub funcionando como **host de imagens** e pode servir as imagens em qualquer site usando **jsDelivr**. 🎉✨
+
+## 📚 Documentação
+
+Para usar o script de upload automático:
+
+🚀 **[Como Usar o GitHub Image Uploader](COMO_USAR.md)**
+
+---
+
+## 🖼️ Suas Imagens
+
+Acesse suas imagens via jsDelivr:
+
+- ![Logo](https://cdn.jsdelivr.net/gh/samucastudent/meus-imagens@main/imagens/logo.png)
+- ![Banner](https://cdn.jsdelivr.net/gh/samucastudent/meus-imagens@main/imagens/banner.jpg)
