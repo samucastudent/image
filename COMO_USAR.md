@@ -156,5 +156,8 @@ Após o uso, seu repositório ficará assim:
 └── icone.webp
 
 ---
+## 🔙 Voltar
+
+← **[Voltar ao README principal](README.md)**
 
 Feito com ❤️ por [samucastudent](https://github.com/samucastudent)
